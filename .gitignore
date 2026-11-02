@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+chroma_db/
+predictions_log.csv
+weights/*.pt
+.env
